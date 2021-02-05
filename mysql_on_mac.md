@@ -78,4 +78,4 @@ Database: test
 Port: 3306
 ```
 > Sequel Pro.app 界面如下:
-![mysql connect config in Sequel Pro](mysql_on_mac_images/sequel_pro_config.png)
+![mysql connect config in Sequel Pro](../main/mysql_on_mac_images/sequel_pro_config.png)
