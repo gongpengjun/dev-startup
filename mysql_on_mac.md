@@ -65,7 +65,7 @@ MySQL就启动成功了，下次开机重启也自动启动
 
 ## 3. 验证：连接MySQL
 
-使用MySQL图形化客户端Sequel Pro.app登录的参数如下：
+使用MySQL图形化客户端 [Sequel Pro.app](https://www.sequelpro.com/) 登录的参数如下：
 
 ```
 Host: 127.0.0.1
