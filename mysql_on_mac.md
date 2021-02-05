@@ -64,7 +64,7 @@ Creating local-mysql ... done
 MySQL就启动成功了，下次开机重启也自动启动。
 
 > 打开 Docker Desktop App可以看到 local-mysql 正在运行中
-![mysql running in docker](./mysql_on_mac_images/docker-desktop_mysql_running.png)
+![mysql running in docker](/mysql_on_mac_images/docker-desktop_mysql_running.png)
 
 ## 3. 验证：连接MySQL
 
@@ -78,4 +78,4 @@ Database: test
 Port: 3306
 ```
 > Sequel Pro.app 界面如下:
-![mysql connect config in Sequel Pro](./mysql_on_mac_images/sequel_pro_config.png)
+![mysql connect config in Sequel Pro](mysql_on_mac_images/sequel_pro_config.png)
