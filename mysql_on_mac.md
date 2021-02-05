@@ -26,11 +26,11 @@ docker-compose version 1.27.4, build 40524192
 
 ## 2. 通过docker-compose管理MySQL
 
-### 2.1 编写docker-compose.yaml文件
+### 2.1 编写docker-compose.yml文件
 
 选在一个根目录，假设选择当前用户目录`~`，下文都假设根目录为`~`
 
-在根目录下编写文件docker-compose.yaml，内容如下：
+在根目录下编写文件docker-compose.yml，内容如下：
 
 ```
 ---
@@ -51,7 +51,7 @@ services:
       - "3306:3306"
 ```
 
-> 可通过命令 `$ cat ~/docker-compose.yaml` 检查其输出是否如上所示
+> 可通过命令 `$ cat ~/docker-compose.yml` 检查其输出是否如上所示
 
 ### 2.2 使用docker-compose启动mysql
 
