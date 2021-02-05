@@ -51,6 +51,8 @@ services:
       - "3306:3306"
 ```
 
+> 可通过命令 `$ cat ~/docker-compose.yaml` 检查其输出是否如上所示
+
 ### 2.2 使用docker-compose启动mysql
 
 ```
