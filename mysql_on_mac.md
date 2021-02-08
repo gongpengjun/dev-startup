@@ -53,6 +53,8 @@ services:
 
 > 可通过命令 `$ cat ~/docker-compose.yml` 检查其输出是否如上所示
 
+> 也可下载 [docker-compose.yml](mysql_on_mac/docker-compose.yml) 直接使用
+
 ### 2.2 使用docker-compose启动mysql
 
 ```
